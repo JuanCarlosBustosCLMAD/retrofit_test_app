@@ -10,7 +10,8 @@
                "album_label": "Atco",
                "album_producer": "Felix Pappalardi", 
                "album_length_mins": 34.37, 
-               "album_cover_img": "http://images.coveralia.com/audio/c/Cream-Disraeli_Gears-Frontal.jpg"
+               "album_cover_img": "http://images.coveralia.com/audio/c/Cream-Disraeli_Gears-Frontal.jpg",
+               "album_description": "Insane. Intense. Influential. 'Disraeli Gears' represents the finest hour for British psychedelic rock power trio Cream, comprised of drummer Ginger Baker, bassist-vocalist Jack Bruce and none other than 'God' himself Eric Clapton on guitar. Squarely identifiable as a psychedelic rock album - Which took American blues, laced it with LSD and put it through a fuzz box - nonetheless this album, not to say the work of Cream itself, set the groundwork for heavier rock genres which came into full bloom in the following decade of the 1970s, such as progressive rock and - as much as former drummer Baker might detest it - heavy metal."  
           },
           {
               "album_id": 1,
@@ -22,7 +23,8 @@
               "album_label": "Rolling Stones", 
               "album_producer": "Jimmy Miller", 
               "album_length_mins": 67.07,
-              "album_cover_img": "http://images.coveralia.com/audio/t/The_Rolling_Stones-Exile_On_Main_St_(Deluxe_Edition)-Frontal.jpg"
+              "album_cover_img": "http://images.coveralia.com/audio/t/The_Rolling_Stones-Exile_On_Main_St_(Deluxe_Edition)-Frontal.jpg",
+              "album_description": "Recorded in the mansion known as Villa Nellcôte, located in the French Riviera during the Stones' self-imposed tax exile from their native Britain in the early 1970s, 'Exile on Main Street' is considered by a majority of professional musical critics as the Stones' definitive statement as a bonafide 'rock and roll' band in the purest sense of the word. Coming off the heels of three classic albums ('Beggars' Banquet', 'Let it Bleed' and 'Sticky Fingers') the commitment and reverence of the 'Satanic Majesties' towards their American rhythm and blues and early rock and roll influences, at the same time cementing the Stones' distinctive approach and style of rock and roll."
           },
           {
               "album_id": 2,
@@ -34,7 +36,8 @@
               "album_label": "Sussex",
               "album_producer": "Steve Rowland",
               "album_length": 40.30,
-              "album_cover_img": "http://images.coveralia.com/audio/r/Rodriguez-Coming_From_Reality-Frontal.jpg"
+              "album_cover_img": "http://images.coveralia.com/audio/r/Rodriguez-Coming_From_Reality-Frontal.jpg",
+              "album_description": "Even after the release of the documentary 'Searching for Sugar Man', the life story of Detroit folk rock singer Sixto Rodríguez hasn't ceased to amaze: Virtually unknown in the United States of America during his active recording career, his two studio albums 'Cold Fact' and 'Coming From Reality' eventually made an impact in Australia and - most importantly - South Africa, where his music became the soundtrack of a young generation who yearned and fought for the downfall of apartheid, a policy that made South Africa a pariah state towards other Commonwealth and Western nations. Produced by Steve Rowland, 'Coming from Reality' shows a deeper level of maturity and at the same time, a sharper level of poignancy contrasted with its predecessor. The album closer for its original 1971 release, 'Cause' was a grim portrayal of life as a Detroit blue-collar worker. Its opening lines 'Cause I lost my job two weeks before Christmas' ended up being a prophetic statement by Rodríguez, he was dropped from his label Sussex two weeks before Christmas of 1971."
           }, 
           {
                "album_id": 3,
@@ -46,7 +49,113 @@
                "album_label": "Harvest",
                "album_producer": "Pink Floyd", 
                "album_length_mins": 44.28, 
-               "album_cover_img": "http://images.coveralia.com/audio/p/Pink_Floyd-Wish_You_Were_Here-Frontal.jpg"
+               "album_cover_img": "http://images.coveralia.com/audio/p/Pink_Floyd-Wish_You_Were_Here-Frontal.jpg",
+               "album_description": "Coming off the heels of the massive success of their 1973 LP 'Dark Side of the Moon', 'Wish You Were Here' is centered around the themes of distance and alienation, which was being experienced between the four band members (Roger Waters, David Gilmour, Nick Mason and Richard Wright) during the recording, as each of them sought coming to terms with worldwide fame. The ever-lingering influence of former frontman Syd Barrett - Who left the band years earlier due to mental health and drug abuse issues - is perceptible and the 14-minute epic 'Shine On You Crazy Diamond' serves as an affectionate tribute to him."
+          },
+          {
+               "album_id": 4,
+               "album_name": "2112",
+               "album_artist": "Rush",
+               "album_genre": "Rock",
+               "album_subgenre": "Progressive",
+               "album_year": "1976", 
+               "album_label": "Anthem",
+               "album_producer": "Terry Brown", 
+               "album_length_mins": 38.42, 
+               "album_cover_img": "http://images.coveralia.com/audio/r/Rush-2112-Frontal.jpg",
+               "album_description": "After the commercial disappointment of their third studio album 'Caress of Steel', Canadian prog-rock power trio Rush's international distribution deal with Mercury Records was at stake. Despite Mercury's demands to make a radio-friendly record, Rush instead went balls-out and took the greatest of risks:  2112's entire first side on vinyl is comprised of a seven-part space-rock-opera suite, which tells the story of a young man living under the tyrannical interplanetary rule of the Solar Federation, headed under the administration of the Priests of the Temples of Syrinx, who oppose any kind of individual expression as they deem it 'against the established order'. The life of our protagonist is turned upside down after finding an ancient artifact under a waterfall: A guitar. The risk paid off and '2112' was the album that made Rush a seriously-considered band" 
+          },
+          {
+               "album_id": 5,
+               "album_name": "Van Halen I",
+               "album_artist": "Van Halen",
+               "album_genre": "Rock",
+               "album_subgenre": "Hard Rock",
+               "album_year": "1978", 
+               "album_label": "Warner Bros.",
+               "album_producer": "Ted Templeman", 
+               "album_length_mins": 35.34, 
+               "album_cover_img": "http://images.coveralia.com/audio/v/Van_Halen-Van_Halen-Frontal.jpg",
+               "album_description": "The Pasadena, California-based hard rock quartet had been making waves as - mainly due to the coupling of Eddie Van Halen's virtuoso guitar playing with David Lee Roth's wide vocal range and larger than life stage presence -  1974 in the southern California circuit, but with the release of their self-titled eponymous debut album, 'Van Halen' became a household name. Almost entirely recorded live, this album is one hell of a ride, between revved-up covers of classics such as 'You Really Got Me' and pieces which demonstrate the full potential of Eddie Van Halen's guitar playing, such as 'Atomic Punk', 'Running with the Devil' and the legendary instrumental 'Eruption'." 
+          }, 
+          {
+              
+               "album_id": 6,
+               "album_name": "Back in Black",
+               "album_artist": "AC/DC",
+               "album_genre": "Rock",
+               "album_subgenre": "Hard Rock",
+               "album_year": "1980", 
+               "album_label": "Atlantic",
+               "album_producer": "Mutt Lange", 
+               "album_length_mins": 42.11, 
+               "album_cover_img": "http://images.coveralia.com/audio/a/Acdc-Back_In_Black-Frontal.jpg",
+               "album_description": "In February of 1980 and at the top of their popularity, Australian hard rock band AC/DC lost their lead vocalist Bon Scott to acute alcohol poisoning following a night of binge drinking. While they considered retirement, Scott's family encouraged them to move on with a new vocalist. That new vocalist ended up being former Geordie vocalist, Brian Johnson. Despite its release a mere six months after the death of Bon Scott, 'Back in Black' became AC/DC's highest selling albums and one of the highest selling rock records of all time. A classic in every sense of the word and for a rock and roll fan, an essential album. The title track, 'Hells Bells', 'You Shook Me All Night Long' and 'Rock and Roll (Ain't Noise Pollution)' - all 'em anthems." 
+          },
+          {
+               "album_id": 7,
+               "album_name": "Synchronicity",
+               "album_artist": "The Police",
+               "album_genre": "Rock",
+               "album_subgenre": "New Wave",
+               "album_year": "1983", 
+               "album_label": "AM",
+               "album_producer": "Hugh Padgham", 
+               "album_length_mins": 44.32,  
+               "album_cover_img": "http://images.coveralia.com/audio/t/The_Police-Synchronicity-Frontal.jpg",
+               "album_description": "A volatile musical partnership - driven by Sting and Stewart Copeland's clashing musical visions with guitarist and senior member Andy Summers serving as mediator between the two egos - was The Police. And with what a bang they called it a day. Synchronicity is pretty much a wonderful conclusion to the Police's short career span. Loaded with hits such as 'King of Pain', 'Synchronicity II', perhaps its most memorable track is the Sting-penned 'Every Breath You Take' which underneath its warm musical soundscape, contains a story of an unhealthy obsession and toxic, controlling relationship dynamics." 
+          },
+          {
+               "album_id": 8,
+               "album_name": "Texas Flood",
+               "album_artist": "Stevie Ray Vaughan and Double Trouble",
+               "album_genre": "Rock",
+               "album_subgenre": "Blues/Roots",
+               "album_year": "1983", 
+               "album_label": "Epic",
+               "album_producer": "Stevie Ray Vaughan and Double Trouble", 
+               "album_length_mins": 38.48,  
+               "album_cover_img": "http://images.coveralia.com/audio/s/Stevie_Ray_Vaughan_And_Double_Trouble-Texas_Flood_(1999)-Frontal.jpg",
+               "album_description": "At first glance it would seem that in 1983, at the height of the Second British Invasion and synth-driven pop, the simple thought of a young Texas-born, hat-and-poncho clad bluesman managing to make a dent into MTV would be something brushed off as mere 'wishful thinking'. However, when said Texas bluesman - A certain Stevie Ray Vaughan - has  session musician credits for no one other than David Bowie, the chances for exposure grow exponentially. That is not to demean in any way the quality of this album, Vaughan thoroughly breaks through and shows a grounded, traditional and yet fresh and modern style of the blues, grounded on artists ranging from B.B. King to Jimi Hendrix." 
+          },
+          {
+               "album_id": 9,
+               "album_name": "Cowboys From Hell",
+               "album_artist": "Pantera",
+               "album_genre": "Rock",
+               "album_subgenre": "Groove metal",
+               "album_year": "1989", 
+               "album_label": "Atco",
+               "album_producer": "Terry Date", 
+               "album_length_mins": 57.39,  
+               "album_cover_img": "http://images.coveralia.com/audio/p/Pantera-Cowboys_From_Hell_(20th_Anniversary_Expanded_Edition)-Frontal.jpg",
+               "album_description": "After five independently-released forays into hair metal, Texan heavy metal legends-to-be Pantera finally got their major label debut in 1989 with 'Cowboys From Hell'. An in-your-face, no-holds-barred greeting to metalheads outside of the American Southwest, this album is a showcase for the late 'Dimebag' Darrell Abbott's aggresive and trailblazing guitar playing, accompanied by Philip Anselmo's unearthly and grave growls." 
+          },
+          {
+               "album_id": 10,
+               "album_name": "Holy Wood (In The Shadow of the Valley Of Death)",
+               "album_artist": "Marilyn Manson",
+               "album_genre": "Rock",
+               "album_subgenre": "Industrial",
+               "album_year": "2000", 
+               "album_label": "Interscope",
+               "album_producer": "Marilyn Manson", 
+               "album_length_mins": 68.07,  
+               "album_cover_img": "http://images.coveralia.com/audio/m/Marilyn_Manson-Holy_Wood_(In_The_Shadow_Of_The_Valley_Of_Death)-Frontal.jpg",
+               "album_description": "There was a time when people genuinely thought Marilyn Manson - born Brian Hugh Warner in Canton, Ohio - was the Anti-Christ prophesied in Judeo-Christian Scripture. Public enemy #1 of the conservative establishment and the 'voice' of the outcasts in the late 1990s and into the early years of the 21st century, 'Holy Wood (In The Shadow of the Valley of Death)' while not carrying the bludgeoning impact that 1996's 'Antichrist Superstar', manages to top it off. This is Manson at his most iconoclastic, targeting his full lyrical and sonic assault against the hypocritical gun-toting, politicized right-wing Christianist American conservatives who at the time of the album's release thought Manson was THE Devil, darkly satirizing the phenomenon of celebrity worship as a religion on itself (Complete with John F. Kennedy as its Christ figure). 'New guy on the band' at the time, guitar virtuoso John 5 (John Lowery) functions very much as Manson's enforcer of sonic aggresion, delivering amazing guitar work even on the structurally simplest of fist pumpers such as 'The Fight Song'"
+          },
+          {
+               "album_id": 11,
+               "album_name": "Toxicity",
+               "album_artist": "System of a Down",
+               "album_genre": "Rock",
+               "album_subgenre": "Alternative metal",
+               "album_year": "2001", 
+               "album_label": "Columbia",
+               "album_producer": "Rick Rubin", 
+               "album_length_mins": 44.01,  
+               "album_cover_img": "http://images.coveralia.com/audio/s/System_Of_A_Down-Toxicity-Frontal.jpg",
+               "album_description": "The breakthrough album for Hollywood-based Armenian-American alternative metal quartet System of a Down, Toxicity nonetheless had the immediate event of the September 11, 2001 WTC occuring just one week after it arrived on store shelves. It lead single, 'Chop Suey', with its allusions to suicide (Even though the song's theme is more likely self-harm and drug abuse) was deemed inappropiate as its lyrics were thought to be written on the perspective of a suicide bomber. That being said, the album became a picture of the early George W. Bush presidency and at the same time, a timeless metal masterpiece. Every song is a peppered pummeler rife with poetry, wordplay and hidden meanings, delivered by Serj Tankian's powerful operatic, Middle Eastern vocals. "
           }
   ], 
   "pages" : 1,
