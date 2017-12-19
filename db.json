@@ -10,7 +10,7 @@
                "album_label": "Atco",
                "album_producer": "Felix Pappalardi", 
                "album_length_mins": 34.37, 
-               "album_cover_img": "http://images.coveralia.com/audio/c/Cream-Disraeli_Gears-Frontal.jpg",
+               "album_cover_img": "http://images.coveralia.com/audio/c/Cream-Disraeli_Gears-Frontal.jpg"
           },
           {
               "album_id": 1,
@@ -22,7 +22,7 @@
               "album_label": "Rolling Stones", 
               "album_producer": "Jimmy Miller", 
               "album_length_mins": 67.07,
-              "album_cover_img": "http://images.coveralia.com/audio/t/The_Rolling_Stones-Exile_On_Main_St_(Deluxe_Edition)-Frontal.jpg",
+              "album_cover_img": "http://images.coveralia.com/audio/t/The_Rolling_Stones-Exile_On_Main_St_(Deluxe_Edition)-Frontal.jpg"
           },
           {
               "album_id": 2,
@@ -34,8 +34,7 @@
               "album_label": "Sussex",
               "album_producer": "Steve Rowland",
               "album_length": 40.30,
-              "album_cover_img": "http://images.coveralia.com/audio/r/Rodriguez-Coming_From_Reality-Frontal.jpg",
-              "album_description": "Even after the release of the documentary 'Searching for Sugar Man', the life story of Detroit folk rock singer Sixto Rodríguez hasn't ceased to amaze: Virtually unknown in the United States of America during his active recording career, his two studio albums 'Cold Fact' and 'Coming From Reality' eventually made an impact in Australia and - most importantly - South Africa, where his music became the soundtrack of a young generation who yearned and fought for the downfall of apartheid, a policy that made South Africa a pariah state towards other Commonwealth and Western nations. Produced by Steve Rowland, 'Coming from Reality' shows a deeper level of maturity and at the same time, a sharper level of poignancy contrasted with its predecessor. The album closer for its original 1971 release, 'Cause' was a grim portrayal of life as a Detroit blue-collar worker. Its opening lines 'Cause I lost my job two weeks before Christmas' ended up being a prophetic statement by Rodríguez, he was dropped from his label Sussex two weeks before Christmas of 1971."
+              "album_cover_img": "http://images.coveralia.com/audio/r/Rodriguez-Coming_From_Reality-Frontal.jpg"
           }, 
           {
                "album_id": 3,
@@ -47,8 +46,7 @@
                "album_label": "Harvest",
                "album_producer": "Pink Floyd", 
                "album_length_mins": 44.28, 
-               "album_cover_img": "http://images.coveralia.com/audio/p/Pink_Floyd-Wish_You_Were_Here-Frontal.jpg",
-               "album_description": "Coming off the heels of the massive success of their 1973 LP 'Dark Side of the Moon', 'Wish You Were Here' is centered around the themes of distance and alienation, which was being experienced between the four band members (Roger Waters, David Gilmour, Nick Mason and Richard Wright) during the recording, as each of them sought coming to terms with worldwide fame. The ever-lingering influence of former frontman Syd Barrett - Who left the band years earlier due to mental health and drug abuse issues - is perceptible and the 14-minute epic 'Shine On You Crazy Diamond' serves as an affectionate tribute to him."
+               "album_cover_img": "http://images.coveralia.com/audio/p/Pink_Floyd-Wish_You_Were_Here-Frontal.jpg"
           }
   ], 
   "pages" : 1,
