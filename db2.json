@@ -1,0 +1,11 @@
+{
+	 "data": [
+	      {
+	          "album_id" : 0,
+	          "album_name" : "Disraeli Gears",
+              "album_artist": "Cream",
+              "album_genre": "Rock",
+              "album_cover_img": "http://images.coveralia.com/audio/c/Cream-Disraeli_Gears-Frontal.jpg"
+	      }
+	 ]
+}
